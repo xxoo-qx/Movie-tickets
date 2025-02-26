@@ -1,1 +1,1 @@
-# Movie-tickets
+# 电影票券码采集
